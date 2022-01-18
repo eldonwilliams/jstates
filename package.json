@@ -35,6 +35,9 @@
     "name": "Or Yoffe",
     "url": "https://github.com/orYoffe"
   },
+  "contributors": [
+    { "name": "Eldon Williams", "email": "eldon.ew.com@gmail.com", "url": "https://eldonwilliams.com/" }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/orYoffe/jstates/issues"
