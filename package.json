@@ -1,7 +1,7 @@
 {
   "name": "eldon-jstates",
   "version": "0.5.4",
-  "description": "JStates - A simple js state library",
+  "description": "jstates with additional features, pending pull request to main branch",
   "main": "dist/index.min.js",
   "module": "dist/index.es.js",
   "browser": "dist/index.iife.js",
