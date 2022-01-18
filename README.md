@@ -25,6 +25,11 @@ I wanted to introduce a very small, simple state solution that would work for mo
 In order to understand, compose or improve this library,
 you don't need more than to jump into the small source code and extend the functionality or create your own.
 
+## Note about modification
+This is a fork of the original jstates project. I've added a "oldState" parameter to be passed to subscribed functions because it was a feature I needed. I submitted a pullrequest that is pending approval, until approval is given you can use this package to get the feature.
+
+As soon as the pullrequest is accepted, please go use the original jstates library!
+
 ## Install
 
 ```sh
