@@ -1,5 +1,5 @@
 {
-  "name": "jstates",
+  "name": "eldon-jstates",
   "version": "0.5.4",
   "description": "JStates - A simple js state library",
   "main": "dist/index.min.js",
