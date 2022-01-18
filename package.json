@@ -1,6 +1,6 @@
 {
   "name": "eldon-jstates",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "jstates with additional features, pending pull request to main branch",
   "main": "dist/index.min.js",
   "module": "dist/index.es.js",
@@ -36,7 +36,11 @@
     "url": "https://github.com/orYoffe"
   },
   "contributors": [
-    { "name": "Eldon Williams", "email": "eldon.ew.com@gmail.com", "url": "https://eldonwilliams.com/" }
+    {
+      "name": "Eldon Williams",
+      "email": "eldon.ew.com@gmail.com",
+      "url": "https://eldonwilliams.com/"
+    }
   ],
   "license": "MIT",
   "bugs": {
